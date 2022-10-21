@@ -14,8 +14,8 @@ Curricullum|Section|Start_Date|End_Date|Status
 &nbsp;|02.&nbsp;&nbsp;&nbsp;핵심 원리 이해 1 - 예제 만들기|2022. |2022. |
 &nbsp;|03.&nbsp;&nbsp;&nbsp;핵심 원리 이해 2 - 객체 지향 원리 이용|2022. |2022. |
 &nbsp;|04.&nbsp;&nbsp;&nbsp;Spring Container & Spring Bean|2022. |2022. |
-&nbsp;|05.&nbsp;&nbsp;&nbsp;Singletone Container|2022. |2022. |:o:
-&nbsp;|06.&nbsp;&nbsp;&nbsp;Component Scan|2022. |2022. |:o:
+&nbsp;|05.&nbsp;&nbsp;&nbsp;Singletone Container|2022. |2022. |
+&nbsp;|06.&nbsp;&nbsp;&nbsp;Component Scan|2022. |2022. |
 &nbsp;|07.&nbsp;&nbsp;&nbsp;Autowired (의존관계 자동 주입)|2022. |2022. |
 &nbsp;|08.&nbsp;&nbsp;&nbsp;Spring Bean Lifecycle Callback|2022. |2022. |
 &nbsp;|09.&nbsp;&nbsp;&nbsp;Spring Bean Scope|2022. |2022. |
