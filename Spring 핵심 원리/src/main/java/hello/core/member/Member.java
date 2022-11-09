@@ -3,12 +3,12 @@ package hello.core.member;
 public class Member {
     private Long id;
     private String name;
-    private Grade grede;
+    private Grade grade;
 
-    public Member(Long id, String name, Grade grede) {
+    public Member(Long id, String name, Grade grade) {
         this.id = id;
         this.name = name;
-        this.grede = grede;
+        this.grade = grade;
     }
 
     public Long getId() {
@@ -27,11 +27,11 @@ public class Member {
         this.name = name;
     }
 
-    public Grade getGrede() {
-        return grede;
+    public Grade getGrade() {
+        return grade;
     }
 
-    public void setGrede(Grade grede) {
-        this.grede = grede;
+    public void setGrede(Grade grade) {
+        this.grade = grade;
     }
 }
