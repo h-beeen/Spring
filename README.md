@@ -1,7 +1,7 @@
 # Web Backend Study Curricullum
 ---
 Step|Section|Start_Date|End_Date|Status
---|--|--|--|--|
+:--:|--|:--:|:--:|:--:|
 입문|01.&nbsp;&nbsp;&nbsp;프로젝트 환경 설정|22. 09. 21|22. 09. 21|:o:
 &nbsp;|02.&nbsp;&nbsp;&nbsp;Spring 웹 개발 기초|22. 09. 21|22. 09. 21|:o:
 &nbsp;|03.&nbsp;&nbsp;&nbsp;회원 관리 예제 - Backend Develop|22. 09. 22|22. 09. 24|:o:
