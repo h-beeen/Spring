@@ -1,4 +1,3 @@
-<p align="center">Web Backend Study Using Spring Framework</a>
 <div align="center">
 
 ---
