@@ -12,11 +12,14 @@ public class OrderApp {
     public static void main(String[] args) {
 //        AppConfig appconfig = new AppConfig();
 //        MemberService memberService = appconfig.memberService();
-//        OrderService orderServic e = appconfig.orderService();
+//        OrderService orderService = appconfig.orderService();
 
-        ApplicationContext applicationContext = new AnnotationConfigApplicationContext(AppConfig.class);
-        MemberService memberService = applicationContext.getBean("memberService", MemberService.class);
-        OrderService orderService = applicationContext.getBean("orderService", OrderService.class);
+        ApplicationContext applicationContext = new AnnotationConfigApplicationContext(
+                AppConfig.class);
+        MemberService memberService = applicationContext.getBean(
+                "memberService", MemberService.class);
+        OrderService orderService = applicationContext.getBean(
+                "orderService", OrderService.class);
 
         Long memberId = 1L;
         Member member1 = new Member(memberId, "memberA", Grade.VIP);
