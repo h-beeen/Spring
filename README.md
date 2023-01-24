@@ -3,7 +3,7 @@
 ---
 Step|Section|Start_Date|End_Date|Status
 :--:|--|:--:|:--:|:--:|
-핵심 원리|01.&nbsp;&nbsp;&nbsp;Object-Oriented Design|23. 01. 18|23. 01. 18|
+Principle_1|01.&nbsp;&nbsp;&nbsp;Object-Oriented Design|23. 01. 18|23. 01. 18|
 &nbsp;|02.&nbsp;&nbsp;&nbsp;Project Settings|23. 01. 18|23. 01. 18|
 &nbsp;|03.&nbsp;&nbsp;&nbsp;Using Object-Oriented Principles|23. 01. 23|23. 01. 23|
 &nbsp;|04.&nbsp;&nbsp;&nbsp;Spring Container & Spring Bean|23. 01. 23|23. |
