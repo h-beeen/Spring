@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="hello.core.autowired.AutowiredTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-08T16:21:34" hostname="haebin-ui-MacBook.local" time="0.16">
+<testsuite name="hello.core.autowired.AutowiredTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-10T11:13:06" hostname="haebin-ui-MacBook.local" time="0.01">
   <properties/>
-  <testcase name="AutowiredOption()" classname="hello.core.autowired.AutowiredTest" time="0.16"/>
-  <system-out><![CDATA[01:21:34.104 [Test worker] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@3212a8d7
-01:21:34.113 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
-01:21:34.132 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
-01:21:34.134 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
-01:21:34.134 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
-01:21:34.135 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
-01:21:34.140 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'autowiredTest.TestBean'
-noBean2 = null
+  <testcase name="AutowiredOption()" classname="hello.core.autowired.AutowiredTest" time="0.01"/>
+  <system-out><![CDATA[noBean2 = null
 noBean3 = Optional.empty
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
